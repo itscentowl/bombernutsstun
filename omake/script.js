@@ -196,5 +196,5 @@ var app = new Vue({
 });
 
 var c = () => {
-    alert("clear!\npassword : buckrubies");
+    alert("clear!");
 }
